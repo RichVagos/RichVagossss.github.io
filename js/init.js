@@ -1,6 +1,6 @@
 
 firebase.initializeApp({
- apiKey: "AIzaSyBGwT5Vaf2GCBRvHMrPu5Bq8AI_REM2pgM",
+apiKey: "AIzaSyBGwT5Vaf2GCBRvHMrPu5Bq8AI_REM2pgM",
     authDomain: "autenrichv.firebaseapp.com",
     projectId: "autenrichv",
     storageBucket: "autenrichv.appspot.com",
